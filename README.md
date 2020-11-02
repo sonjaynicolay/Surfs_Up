@@ -13,7 +13,10 @@ After a dreamy visit to Hawaii, a business plan is initialized. The business pla
 ## Results:
 
 
-![June Image](resources/June_Image.png)
+![June_Image](https://user-images.githubusercontent.com/69441332/97835854-b0b61480-1ca0-11eb-9a24-557e48464284.png)
+
+
+
 •	The Average Temperatures
   The Average temperature in June at 75 vs December being 71, is a bit concerning. 
   
