@@ -2,7 +2,7 @@
 ## A Weather Analysis of Hawaii
 
 
- ![Surf Board Image](resources/post-surf-boards.jpeg)
+![post-surf-boards](https://user-images.githubusercontent.com/69441332/97835781-8d8b6500-1ca0-11eb-93df-2b768578d875.jpeg)
 
 ## 1.	Overview:
 
