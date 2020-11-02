@@ -2,6 +2,8 @@
 ## A Weather Analysis of Hawaii
 
 
+ ![](resources/post-surf-boards.jpeg)
+
 ## 1.	Overview:
 
 
@@ -10,6 +12,7 @@ After a dreamy visit to Hawaii, a business plan is initialized. The business pla
 
 ## Results:
 
+![](resources/June_Image).png
 
 •	The Average Temperatures
   The Average temperature in June at 75 vs December being 71, is a bit concerning. 
@@ -20,6 +23,7 @@ After a dreamy visit to Hawaii, a business plan is initialized. The business pla
 •	Count Difference
   The data we compiled our analysis from is not based on the same amount of recorded temperatures in June versus December. The count was 1700 for June and for December it was only   1517. June has 30 days and December has 31. The difference in days does not make up the data gap.
 
+![](resources/December_Image.png)
 
 ## 2. Summary:
 After reviewing the results, there are more concerns than relief. With the differnece of the average temps being less than 4 degrees different from June to December more weather analysis is needed. Summary Statastics should be found for the all of the Summer months, June-September. Once those are found average rainfall during the rainy season as well as the occurence of any severe weather during hurricane season, as Oahu is an island in the Pacific Ocean and is suceptible to hurricanes and tropical storms. Based on the temperatures returned it would be ideal to also analyze other aspects that affect the business. 
