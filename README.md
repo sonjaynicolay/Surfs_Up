@@ -13,7 +13,7 @@ After a dreamy visit to Hawaii, a business plan is initialized. The business pla
 ## Results:
 
 
-            ![June_Image](https://user-images.githubusercontent.com/69441332/97835854-b0b61480-1ca0-11eb-9a24-557e48464284.png)
+![June_Image](https://user-images.githubusercontent.com/69441332/97835854-b0b61480-1ca0-11eb-9a24-557e48464284.png)
 
 
 
@@ -26,7 +26,10 @@ After a dreamy visit to Hawaii, a business plan is initialized. The business pla
 •	Count Difference
   The data we compiled our analysis from is not based on the same amount of recorded temperatures in June versus December. The count was 1700 for June and for December it was only   1517. June has 30 days and December has 31. The difference in days does not make up the data gap.
 
-          ![December_Image](https://user-images.githubusercontent.com/69441332/97835923-dcd19580-1ca0-11eb-85b3-13a184796e04.png)
+
+![December_Image](https://user-images.githubusercontent.com/69441332/97835923-dcd19580-1ca0-11eb-85b3-13a184796e04.png)
+
+
 
 ## 2. Summary:
 After reviewing the results, there are more concerns than relief. With the differnece of the average temps being less than 4 degrees different from June to December more weather analysis is needed. Summary Statastics should be found for the all of the Summer months, June-September. Once those are found average rainfall during the rainy season as well as the occurence of any severe weather during hurricane season, as Oahu is an island in the Pacific Ocean and is suceptible to hurricanes and tropical storms. Based on the temperatures returned it would be ideal to also analyze other aspects that affect the business. 
